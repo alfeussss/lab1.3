@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\project\\laba1\\laba1git\\lab1.3\\helloworld\\helloworld\\helloworld.csproj": {}
+    "C:\\Users\\alf\\Desktop\\git_lab1\\lab1\\lab1.3\\helloworld\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\project\\laba1\\laba1git\\lab1.3\\helloworld\\helloworld\\helloworld.csproj": {
+    "C:\\Users\\alf\\Desktop\\git_lab1\\lab1\\lab1.3\\helloworld\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\project\\laba1\\laba1git\\lab1.3\\helloworld\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\alf\\Desktop\\git_lab1\\lab1\\lab1.3\\helloworld\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "C:\\Users\\Admin\\project\\laba1\\laba1git\\lab1.3\\helloworld\\helloworld\\helloworld.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\project\\laba1\\laba1git\\lab1.3\\helloworld\\helloworld\\obj\\",
+        "projectPath": "C:\\Users\\alf\\Desktop\\git_lab1\\lab1\\lab1.3\\helloworld\\helloworld\\helloworld.csproj",
+        "packagesPath": "C:\\Users\\alf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alf\\Desktop\\git_lab1\\lab1\\lab1.3\\helloworld\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
